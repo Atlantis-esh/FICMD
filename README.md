@@ -1,8 +1,4 @@
-# FICMD_Med: A Novel Framework for Imbalanced Class and Modality Distributions of Medical Images
-
-This repository implements the FICMD_Med framework as described in the paper "FICMD_Med: A Novel Framework for Imbalanced Class and Modality Distributions of Medical Images".
-
-
+# [BIBM 2025]FICMD_Med: A Novel Framework for Imbalanced Class and Modality Distributions of Medical Images
 
 ## Installation
 
