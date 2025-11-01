@@ -20,3 +20,4 @@ python generate_caption.py
 python Imbalance_train.py
 ```
 
+More details can be found in the FICMD-Med Detailed Version.pdf.
